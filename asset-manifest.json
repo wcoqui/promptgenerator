@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/promptgenerator/static/css/main.463d7314.css",
+    "main.js": "/promptgenerator/static/js/main.31102b3f.js",
+    "static/js/453.cea08f89.chunk.js": "/promptgenerator/static/js/453.cea08f89.chunk.js",
+    "index.html": "/promptgenerator/index.html",
+    "main.463d7314.css.map": "/promptgenerator/static/css/main.463d7314.css.map",
+    "main.31102b3f.js.map": "/promptgenerator/static/js/main.31102b3f.js.map",
+    "453.cea08f89.chunk.js.map": "/promptgenerator/static/js/453.cea08f89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.463d7314.css",
+    "static/js/main.31102b3f.js"
+  ]
+}
