@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://wcoqui.github.io/promptgenerator/",
+  "homepage": "https://wcoqui.github.io/promptgenerator",
   "eslintConfig": {
     "extends": [
       "react-app",
